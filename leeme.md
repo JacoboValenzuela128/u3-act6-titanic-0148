@@ -1,6 +1,7 @@
 # Caso titanic 
 ### Arath Valenzuela NC:0148 (25/11/26)
-## 🕵️‍♂️ Práctica: Identificación de Problemas en los Datos
+## 🕵️‍♂️ Práctica: Identificación de Problemas en los Datos CSV titanic
+![alt text](image-11.png)
 
 > **⏱️ Duración:** 2 horas  
 > **🎯 Nivel:** Cero a principiante  
